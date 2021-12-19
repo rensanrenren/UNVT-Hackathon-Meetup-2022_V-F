@@ -1,4 +1,5 @@
 # UNVT-Hackathon/Meetup 2022 V&Fプロジェクト
+- 概要 https://github.com/unvt/hackathonmeetup202112/issues/1
 ## 目的
 国連の業務要件を満たしているオープンソースGISツール開発を目的とする枠組み OpenGIS Initiative として Working Group 4.6 "The United Nations Vector Tile Toolkit (UNVT)” が日々オープンコミュニティと共に改良が進められています。特に途上国や自然災害の被災地などオフライン環境でもウェブ地図技術を活用できる持ち運び可能な小型PCである Raspberry Pi をベースとした UNVT などの災害時での応用事例の蓄積など様々なコラボレーションが期待され、その普及と実装事例の拡充を目的としたオンラインハッカソンと成果発表会としてMeetupを開催いたします。ぜひご参加ください！
 
