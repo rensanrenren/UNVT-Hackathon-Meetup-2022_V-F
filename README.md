@@ -42,7 +42,7 @@
 #### YouTube
 - https://youtu.be/rci_IPKVTOw
 #### Google Drive
-**共有ドライブ「FuruhashiLab」→「.ゼミ内サークル活動」→「VideoClubV&F」→「UNVTハッカソン」→「Storytelling」**
+共有ドライブ「FuruhashiLab」→「.ゼミ内サークル活動」→「VideoClubV&F」→「UNVTハッカソン」→「Storytelling」
 - 編集版 https://drive.google.com/file/d/1jAQRDVXrj0onuzfXmm9x3SPxItdLjg1F/view?usp=sharing
 - 画面キャプチャ https://drive.google.com/file/d/1uX_O7Mk1ScYcJmSFXPWdk27Ys42xgtpV/view?usp=sharing
 - bgm https://drive.google.com/file/d/1EB9myB8UDr28U-ZlO_F498M-wKCFL4Rl/view?usp=sharing
