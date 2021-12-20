@@ -36,7 +36,30 @@
 
 ## 成果物 Storytelling(Ren Aoki担当)
 ### Storytelling ファイル
-- 
+- https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_V-F/blob/main/%E5%AE%8C%E6%88%90_%E3%83%9B%E3%82%9A%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%88%E3%82%99_UNVT%20storytelling.html
+
+### 完成動画データ
+- YouTube https://youtu.be/rci_IPKVTOw
+#### Google Drive
+**共有ドライブ「FuruhashiLab」→「.ゼミ内サークル活動」→「VideoClubV&F」→「UNVTハッカソン」→「Storytelling」**
+- 編集版 https://drive.google.com/file/d/1jAQRDVXrj0onuzfXmm9x3SPxItdLjg1F/view?usp=sharing
+- 画面キャプチャ https://drive.google.com/file/d/1uX_O7Mk1ScYcJmSFXPWdk27Ys42xgtpV/view?usp=sharing
+- bgm https://drive.google.com/file/d/1EB9myB8UDr28U-ZlO_F498M-wKCFL4Rl/view?usp=sharing
+- 効果音 https://drive.google.com/file/d/1oaTs6-6uRFJJTCXpr3mam8hxxkEDBTDA/view?usp=sharing
+
+### こだわったこと
+- ポケモンカードの大会の盛り上がり、歴史を表現することを意識
+- 動画は「風」の音で臨場感をつける。
+- ポケモンの世界観の雰囲気に寄せるため、RPGゲーム風のbgmを採用。
+
+### これからの改善点
+- 後半、内容が薄いのでより説明を増やす。
+- pvの演出も考えて作成してみたい。
+- 英語版も作る。
+
+### 素材ライセンス表記
+- OtoLogic
+- フリーBGM DOVA-SYNDROME「hotaru sounds」
 
 ## 参考資料
 - Mapbox Cartogram https://apps.mapbox.com/cartogram
