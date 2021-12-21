@@ -41,7 +41,6 @@
 ### 完成動画データ
 #### YouTube
 - Storytelling https://youtu.be/rci_IPKVTOw
-- 紹介動画 https://youtu.be/U7LUVUNBiTQ
 #### Google Drive
 共有ドライブ「FuruhashiLab」→「.ゼミ内サークル活動」→「VideoClubV&F」→「UNVTハッカソン」→「Storytelling」
 https://drive.google.com/drive/folders/1IvLSrAKgcXIGWlIrQXHk3IbhW3wqVUXT?usp=sharing
@@ -69,6 +68,16 @@ https://drive.google.com/drive/folders/1IvLSrAKgcXIGWlIrQXHk3IbhW3wqVUXT?usp=sha
 - https://github.com/mapbox/storytelling
 - UNVT storytelling
 - https://docs.google.com/presentation/d/1cwO0H2KrgVufaPezBIAdD_eqaaTbXXxCu5jZaTo6lbQ/mobilepresent?fbclid=IwAR3VOVCafNQ_Q1GS-6vNpfPTorubIgz5dVz8zuW-9LrxlIE2iTCW3Z7rCPw&slide=id.p1
+
+## 成果物 UNVT紹介動画(Natsumi Haga担当)
+
+### 完成動画データ
+#### YouTube
+- 紹介動画 https://youtu.be/U7LUVUNBiTQ
+#### Google Drive
+共有ドライブ「FuruhashiLab」→「.ゼミ内サークル活動」→「VideoClubV&F」→「UNVTハッカソン」→「紹介動画」
+
+## 参考資料
 - un-vector-tile-toolkit.github.io https://un-vector-tile-toolkit.github.io
 - UNVT Dashboard https://unvt.github.io
 - UNVTワークショップ日本語版　公開録画https://github.com/unvt/512
