@@ -40,7 +40,8 @@
 
 ### 完成動画データ
 #### YouTube
-- https://youtu.be/rci_IPKVTOw
+- Storytelling https://youtu.be/rci_IPKVTOw
+- 紹介動画 https://youtu.be/U7LUVUNBiTQ
 #### Google Drive
 共有ドライブ「FuruhashiLab」→「.ゼミ内サークル活動」→「VideoClubV&F」→「UNVTハッカソン」→「Storytelling」
 https://drive.google.com/drive/folders/1IvLSrAKgcXIGWlIrQXHk3IbhW3wqVUXT?usp=sharing
