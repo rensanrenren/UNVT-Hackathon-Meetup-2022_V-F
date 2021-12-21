@@ -70,3 +70,4 @@ https://drive.google.com/drive/folders/1IvLSrAKgcXIGWlIrQXHk3IbhW3wqVUXT?usp=sha
 - https://docs.google.com/presentation/d/1cwO0H2KrgVufaPezBIAdD_eqaaTbXXxCu5jZaTo6lbQ/mobilepresent?fbclid=IwAR3VOVCafNQ_Q1GS-6vNpfPTorubIgz5dVz8zuW-9LrxlIE2iTCW3Z7rCPw&slide=id.p1
 - un-vector-tile-toolkit.github.io https://un-vector-tile-toolkit.github.io
 - UNVT Dashboard https://unvt.github.io
+- UNVTワークショップ日本語版　公開録画https://github.com/unvt/512
